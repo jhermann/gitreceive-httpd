@@ -1,5 +1,4 @@
-# gitreceive-httpd
-
+# ![«Logo»](https://raw.github.com/jhermann/gitreceive-httpd/master/doc/_static/logo-48.png) gitreceive-httpd
 
 gitreceive hook example that deploys Apache configuration via a push.
 
